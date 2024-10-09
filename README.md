@@ -1,6 +1,7 @@
 
 #Postman link
-
+http://localhost:4200/
+https://freeapi.gerasim.in/api/JWT/
 
 
 # Todo
